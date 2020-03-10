@@ -76,7 +76,7 @@
     /* Estilos encabezado*/
     
     #encabezado {
-        background: url(img/header.jpeg);
+        background: url(./img/header.jpeg);
         background-position: center;
         background-size: cover;
         height: 400px;
